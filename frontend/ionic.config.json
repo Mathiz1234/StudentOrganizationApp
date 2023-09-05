@@ -1,0 +1,8 @@
+{
+  "name": "BEST APP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b9e19d51"
+}
